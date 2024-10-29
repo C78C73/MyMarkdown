@@ -6,6 +6,6 @@
 
 1. [Interests](Home/Interests/Interests.md)
 2. [Coding](Home/Coding/Coding.md)
-3. [Jobs](/Home/Jobs/Jobs.md)
+3. [Jobs](Home/Jobs/Jobs.md)
 
 ---
